@@ -9,7 +9,7 @@ public class Exercise9 {
                 Mat[j][i]= s.nextInt();
             }
         }
-        System.out.print("Элементы первой строки, кмноженные на 3: ");
+        System.out.print("Элементы первой строки, умноженные на 3: ");
         for (int I=0; I<3;I++) {
             System.out.print(Mat[0][I]*3+" ");
         }
